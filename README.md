@@ -1,8 +1,5 @@
 # 04-react-query
 
-Застосунок для пошуку фільмів за ключовим словом через API [TMDB](https://www.themoviedb.org/) з пагінацією результатів.
-
-Стек: React + TypeScript + Vite, TanStack Query, React Paginate, axios, react-hot-toast, CSS-модулі, modern-normalize
 
 ## Запуск
 
